@@ -1,18 +1,27 @@
-<div align="center">
+ <div align="center">
 
 # Hi 👋 I'm Said Naser
 
 ### Computer Science Undergraduate | FullStack Developer
 
-[LinkedIn](https://linkedin.com/in/said-naser-1x1) • [Email](mailto:saidn0649@gmail.com)
+</div>
 
----
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-naser-1x1)
+[![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidn0649@gmail.com)
+
+</div>
+
 
 ## 💻 Tech Stack
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,js,ts,py,bash,powershell,html,css,react,nextjs,tailwind,bootstrap,fastapi,mysql,git,docker,cloudflare,netlify&perline=8" alt="Technology stack" />
 
-<br/>
 
 ![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -21,11 +30,17 @@
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Agentic Systems](https://img.shields.io/badge/AGENTIC_SYSTEMS-111111?style=for-the-badge&logo=openai&logoColor=white)
 
----
+</div>
+
+
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saidn-dev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub statistics" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saidn-dev&theme=dark&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
+
