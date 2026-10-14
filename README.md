@@ -2,19 +2,24 @@
 
 <h1 ><b> Hi 👋, Said Naser</b></h1>
 
-<h3><b> Computer Science Undergraduate | FullStack Developer </b> </h3>
-
 </div>
-<div align="center" style="border-bottom: none;" >
+<br>
+<br>
+## 🌐 Connect with Me
+
+<div align="center" style="border-bottom: none;">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-naser-1x1)
+
 [![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidn0649@gmail.com)
 
-</div>
-<br>
-<br>
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/saidn001)
 
-<h2 align="center"><b>💻 Tech Stack</b></h2> 
+</div>
+
+
+
+<h2><b>💻 Tech Stack</b></h2> 
 
 <div align="center">  
 
