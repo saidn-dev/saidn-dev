@@ -1,12 +1,11 @@
 <div align="center">
 
 # Hi 👋 I'm Said Naser
-
-### Computer Science Undergraduate • Software Engineer & AI Systems Developer
-
-[LinkedIn](https://linkedin.com/in/said-naser-1x1) • [Email](mailto:saidn0649@gmail.com)
-
 ---
+### Computer Science Undergraduate • Software Engineer
+
+
+
 
 ## 🌐 Connect with Me
 
@@ -16,6 +15,10 @@
 ---
 
 ## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?ids=js,ts,py,java,bash,html,css,react,nextjs,fastapi,tailwind,bootstrap,mysql,gcp,docker,git,cloudflare,netlify,figma,framer,powershell,npm&perline=8" />
+</p>
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
