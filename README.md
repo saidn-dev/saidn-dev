@@ -2,7 +2,7 @@
 
 <h1 ><b> Hi 👋 I'm Said Naser</b></h1>
 
-<h3 style="margin-bottom= 20px; font-weight= bold; border-bottom = none; "> Computer Science Undergraduate | FullStack Developer </h3>
+<h3 style="margin-bottom= 200px; font-weight= bold; border-bottom = none; "> Computer Science Undergraduate | FullStack Developer </h3>
 
 </div>
 
