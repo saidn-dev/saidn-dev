@@ -1,14 +1,14 @@
- <div align="center">
+<div align="center">
 
-# Hi 👋 I'm Said Naser
+<h1 ><b> Hi 👋 I'm Said Naser</b></h1>
 
-### Computer Science Undergraduate | FullStack Developer
+<h3 style="margin-bottom= 20px; font-weight= bold; border-bottom = none; "> Computer Science Undergraduate | FullStack Developer </h3>
 
 </div>
 
 ## 🌐 Connect with Me
 
-<div align="center">
+<div align="center" style="border-bottom: none;" >
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-naser-1x1)
 [![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidn0649@gmail.com)
