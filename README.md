@@ -14,9 +14,9 @@
 <br>
 <br>
 
-<div align="center">
-## 💻 Tech Stack
+<h2 align="center"><b>💻 Tech Stack</b></h2> 
 
+<div align="center">  
 
 <img src="https://skillicons.dev/icons?i=java,js,ts,py,bash,powershell,html,css,react,nextjs,tailwind,bootstrap,fastapi,mysql,git,docker&perline=8" alt="Technology stack" />
 
@@ -28,7 +28,6 @@
 ![Framer](https://img.shields.io/badge/FRAMER-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
 ![Agentic Systems](https://img.shields.io/badge/AGENTIC_SYSTEMS-111111?style=for-the-badge&logo=openai&logoColor=white)
 </div>
 
